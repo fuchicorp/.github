@@ -7,7 +7,7 @@ At **FuchiCorp**, we're building the future of DevOps education and automation. 
 ### 🚀 Get Started with FuchiCorp
 
 - 🔍 [About Us](https://academy.fuchicorp.com/) — Learn who we are and how we’re helping the next generation of engineers.
-- 🌱 [Start Your Project](https://academy.fuchicorp.com/) — Begin your hands-on DevOps journey through our guided projects and learning paths.
+- 🌱 [Start Your Project](https://academy.fuchicorp.com/#subscriptions) — Begin your hands-on DevOps journey through our guided projects and learning paths.
 - 💬 [Join Our Slack Community](https://join.slack.com/t/fuchicorp/shared_invite/zt-24umotunp-Py7oddodgcdsfRJGQer7QA) — Collaborate with our team and community members, ask questions, and stay in the loop.
 - 📫 [Contact Us](https://academy.fuchicorp.com/contact) — Have questions or feedback? Reach out to our team anytime.
 
